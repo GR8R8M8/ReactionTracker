@@ -1,0 +1,22 @@
+C:\Users\NickPC\AppData\Local\Temporary Projects\ReactionTracker\obj\Debug\ReactionTracker.csprojResolveAssemblyReference.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\ReactionTracker\obj\Debug\ReactionTracker.Form1.resources
+C:\Users\NickPC\AppData\Local\Temporary Projects\ReactionTracker\obj\Debug\ReactionTracker.Properties.Resources.resources
+C:\Users\NickPC\AppData\Local\Temporary Projects\ReactionTracker\obj\Debug\ReactionTracker.csproj.GenerateResource.Cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\ReactionTracker\obj\Debug\ReactionTracker.csproj.CoreCompileInputs.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\ReactionTracker\bin\Debug\ReactionTracker.exe.config
+C:\Users\NickPC\AppData\Local\Temporary Projects\ReactionTracker\bin\Debug\ReactionTracker.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\ReactionTracker\bin\Debug\ReactionTracker.pdb
+C:\Users\NickPC\AppData\Local\Temporary Projects\ReactionTracker\obj\Debug\ReactionTracker.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\ReactionTracker\obj\Debug\ReactionTracker.pdb
+C:\Users\NickPC\Desktop\ReactionsTool\ReactionTracker\ReactionTracker\bin\Debug\ReactionTracker.exe.config
+C:\Users\NickPC\Desktop\ReactionsTool\ReactionTracker\ReactionTracker\bin\Debug\ReactionTracker.exe
+C:\Users\NickPC\Desktop\ReactionsTool\ReactionTracker\ReactionTracker\bin\Debug\ReactionTracker.pdb
+C:\Users\NickPC\Desktop\ReactionsTool\ReactionTracker\ReactionTracker\obj\Debug\ReactionTracker.csprojResolveAssemblyReference.cache
+C:\Users\NickPC\Desktop\ReactionsTool\ReactionTracker\ReactionTracker\obj\Debug\ReactionTracker.Properties.Resources.resources
+C:\Users\NickPC\Desktop\ReactionsTool\ReactionTracker\ReactionTracker\obj\Debug\ReactionTracker.csproj.GenerateResource.Cache
+C:\Users\NickPC\Desktop\ReactionsTool\ReactionTracker\ReactionTracker\obj\Debug\ReactionTracker.csproj.CoreCompileInputs.cache
+C:\Users\NickPC\Desktop\ReactionsTool\ReactionTracker\ReactionTracker\obj\Debug\ReactionTracker.exe
+C:\Users\NickPC\Desktop\ReactionsTool\ReactionTracker\ReactionTracker\obj\Debug\ReactionTracker.pdb
+C:\Users\NickPC\Desktop\ReactionsTool\ReactionTracker\ReactionTracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NickPC\Desktop\ReactionsTool\ReactionTracker\ReactionTracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NickPC\Desktop\ReactionsTool\ReactionTracker\ReactionTracker\obj\Debug\ReactionTracker.MainForm.resources
